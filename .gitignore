@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# MLflow tracking directory
+mlruns/
+
+# Model files
+*.h5
+*.hdf5
+*.pb
+*.tflite
+
+# Zip archives
+*.zip
+*.tar.gz
+*.rar
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Dataset folders and files
+Teeth_Dataset/
+test1/
+Teeth DataSet.zip
